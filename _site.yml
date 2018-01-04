@@ -1,0 +1,20 @@
+
+name: "Umair"
+output_dir: "."
+navbar:
+title: "My Important Site"
+left:
+    - text: "About"
+      icon: fa-database
+      href: http://dsi.ucdavis.edu 
+      
+right:
+    - text: "Report"
+    icon: fa-info-circle
+    href: page1.html
+
+output:
+    html_document:
+    theme: yeti
+        highlight: tango
+        
